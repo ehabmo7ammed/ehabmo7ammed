@@ -1,8 +1,9 @@
-
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
+<!-- صورة تعبّر عن برمجة الروبوتات أو الأنظمة المدمجة -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Embedded Systems & AI" width="40%"/><br> 
 
 <details>
 <p><strong><summary>🎧 Coding & Vibing to:</summary></strong></p>
@@ -36,7 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![PLC](https://img.shields.io/badge/PLC-LadderLogic-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
@@ -53,42 +53,17 @@
 
 ---
 
-## 🎞️ A Glimpse of My Domain
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=EhabMohammed&show_icons=true&theme=radical&hide=prs" width="50%">
 </div>
-
-<details>
-  <summary>📈 More stats</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
----
-
-## 🔁 Code Cycle
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Bugged"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixed"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Working magically"/>
 
 ---
 
 ### ☕ Let's Connect
 
-- 🔗 LinkedIn: [your profile](https://linkedin.com/in/yourprofile)
-- 📧 Email: youremail@example.com
+- 🔗 **LinkedIn**: [Ehab Mohammed](https://www.linkedin.com/in/ehab-mohammed-168964348/)
 - 💬 Telegram: [@yourusername](https://t.me/yourusername)
 
 </div>
