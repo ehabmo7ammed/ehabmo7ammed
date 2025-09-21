@@ -25,7 +25,7 @@
 
 - ✅ Internet of Things (**IoT**) development (Node-RED, ESP32, MQTT, HTTP, Cloud Integration)  
 - ✅ Industrial IoT (**IIoT**) & PLC programming (Ladder Logic on Siemens & Delta)  
-- ✅ Embedded C/C++ programming on Microcontrollers (STM32, PIC)  
+- ✅ Embedded C/C++ programming on Microcontrollers (ESP32 , Arduino ,STM32 , PIC)  
 - ✅ Robotics development (Sensors, Actuators, Real-Time Control)  
 - ✅ Python & Image Processing (OpenCV, AI vision applications)  
 
@@ -37,12 +37,13 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat&logo=protocols&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-IoT-blue?style=flat&logo=cloud&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF0000?logo=data:image/svg+xml;base64,PASTE_BASE64_HERE&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
